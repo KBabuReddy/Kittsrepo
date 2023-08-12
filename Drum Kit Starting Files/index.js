@@ -22,7 +22,7 @@ for (i=0; i<numberofdrums; i++){
 document.addEventListener("keypress", function(event) {
   makesound(event.key);
 
-  buttonnimation(event.key);
+  buttonanimation(event.key);
 });
 
 
